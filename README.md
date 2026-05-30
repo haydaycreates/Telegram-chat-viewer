@@ -34,3 +34,5 @@ You only need a modern web browser (such as Chrome, Firefox, Edge, or Safari) an
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/haydaycreates/Telegram-chat-viewer.git](https://github.com/haydaycreates/Telegram-chat-viewer.git)
+2** direct link :
+https://haydaycreates.github.io/Telegram-chat-viewer/
